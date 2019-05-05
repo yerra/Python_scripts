@@ -2,10 +2,10 @@
 """
 Created on Sat May  4 18:51:22 2019
 
-@author: sriha
+@author: srihari
 """
-
-for num in range(1,10   0):
+## FizzBuzz
+for num in range(1,100):
     #print(num % 3)
     if ((num % 15) == 0):
         print('FizzBuzz')
